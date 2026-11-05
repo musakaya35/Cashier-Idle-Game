@@ -1,0 +1,57 @@
+[2026-11-05T20:56:58.154Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.4f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 15792 --ipc-path Unity-Upm-15792 -l 2 --log-file 'C:\\Users\\musa kaya\\Cashier Idle Game/Logs/upm.log'
+[2026-11-05T20:56:58.208Z][INFO] IPC server started (IPC path=Unity-Upm-15792).
+[2026-11-05T20:56:58.209Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-15792.
+[2026-11-05T20:57:37.896Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:57:38.306Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:57:38.344Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-05T20:57:40.027Z][INFO] config:project:get-registries --> 200 (1683 ms)
+[2026-11-05T20:57:40.905Z][INFO] project:list-packages --> 200 (3009 ms)
+[2026-11-05T20:57:40.918Z][INFO] project:list-packages --> 200 (2613 ms)
+[2026-11-05T20:58:37.843Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:58:37.911Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:58:38.512Z][INFO] project:list-packages --> 200 (669 ms)
+[2026-11-05T20:58:38.603Z][INFO] project:list-packages --> 200 (692 ms)
+[2026-11-05T20:58:44.260Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:58:44.621Z][INFO] project:list-packages --> 200 (361 ms)
+[2026-11-05T20:58:45.707Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-05T20:58:45.713Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-05T20:58:53.496Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:58:53.943Z][INFO] project:list-packages --> 200 (447 ms)
+[2026-11-05T20:58:58.474Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-11-05T20:58:58.927Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.5@0.0.106] from registry 'https://packages.unity.com'
+[2026-11-05T20:58:59.929Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.5@0.0.106] from registry 'https://packages.unity.com' (size: 11.5 kB, time: 1s)
+[2026-11-05T20:59:00.193Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T20:59:00.320Z][INFO] packages:get-packageinfo --> 200 (1846 ms)
+[2026-11-05T20:59:02.720Z][INFO] project:list-packages --> 200 (2527 ms)
+[2026-11-05T21:17:01.198Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T21:17:01.582Z][INFO] project:list-packages --> 200 (386 ms)
+[2026-11-05T21:17:02.060Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T21:17:02.397Z][INFO] project:list-packages --> 200 (337 ms)
+[2026-11-05T21:17:02.641Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-05T21:17:02.647Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-05T21:17:05.436Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ai.assistant"
+}
+[2026-11-05T21:17:06.348Z][INFO] packages:get-packageinfo --> 200 (912 ms)
+[2026-11-05T21:17:08.374Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T21:17:08.693Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T21:17:11.012Z][INFO] project:list-packages --> 200 (2319 ms)
+[2026-11-05T21:17:11.014Z][INFO] project:list-packages --> 200 (2640 ms)
